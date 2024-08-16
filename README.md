@@ -8,7 +8,7 @@ Bienvenido
 </table>
 </div>
 
-<h2>:wave: Requisitos previos</h2>
+<h2> Requisitos previos</h2>
 
 
 
