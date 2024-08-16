@@ -7,9 +7,8 @@ Bienvenido
    <td>Diego Ismael Chávez Acevedo</td>
 </table>
 </div>
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 
-
+<h2>:wave: Requisitos previos</h2>
 
 
 
