@@ -7,6 +7,10 @@ Bienvenido
    <td>Diego Ismael Chávez Acevedo</td>
 </table>
 </div>
+#  Requisitos Previos
+- Java JDK 8 o superior.
+- Apache Maven 3.6.0 o superior.
+- Un servidor de aplicaciones como Apache Tomcat.
 
 
 
