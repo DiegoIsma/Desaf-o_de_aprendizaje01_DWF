@@ -11,8 +11,10 @@ Bienvenido
 
 <table>
   <tr align="center">
-    <td>Laravel </td>
-    <td>kotline</td>
+    <td>Java Servlet API </td>
+    <td>JSP (JavaServer Pages)</td>
+    <td>AJAX</td>
+    <td>Payara</td>
   </tr>
 </table>
 
