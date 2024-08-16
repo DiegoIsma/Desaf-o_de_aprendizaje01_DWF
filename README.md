@@ -18,6 +18,13 @@ Bienvenido
   </tr>
 </table>
 
+<h2>Infraestructura de Desarrollo y Despliegue</h2>
+
+<table>
+  <tr align="center">
+    <td>IntelliJ IDEA </td>
+  </tr>
+</table>
 
 <h2> Requisitos previos</h2>
 
