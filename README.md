@@ -28,7 +28,13 @@ Bienvenido
 
 <h2> Requisitos previos</h2>
 
-
+<table>
+  <tr align="center">
+    <td>Java JDK 8 o superior. </td>
+    <td>Apache Maven</td>
+    <td>Un servidor de aplicaciones como Payara</td>
+  </tr>
+</table>
 
 
 
