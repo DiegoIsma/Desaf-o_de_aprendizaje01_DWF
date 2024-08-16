@@ -5,7 +5,6 @@ Bienvenido
   <table style={margin: 0 auto}>
   <tr align="center">
    <td>Diego Ismael Chávez</td>
- 
 </table>
 </div>
 
