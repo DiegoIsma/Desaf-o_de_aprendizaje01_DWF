@@ -1,0 +1,77 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #343a40;
+}
+
+.card-text {
+    color: #6c757d;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    transform: scale(1.05);
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    transform: scale(1.05);
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #343a40;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #343a40;
+    margin-bottom: 20px;
+}
+
+#cartItems li {
+    font-size: 1.1rem;
+}
