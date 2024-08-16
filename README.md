@@ -36,5 +36,13 @@ Bienvenido
   </tr>
 </table>
 
+<h2> Instrucciones de Instalación</h2>
+<table>
+  <tr align="center">
+    <td>Clonar el repositorio </td>
+    <td>Compilar el proyecto</td>
+    <td>Un servidor de aplicaciones como Payara</td>
+  </tr>
+</table>
 
 
