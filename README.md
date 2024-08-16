@@ -41,7 +41,6 @@ Bienvenido
   <tr align="center">
     <td>Clonar el repositorio </td>
     <td>Compilar el proyecto</td>
-    <td>Un servidor de aplicaciones como Payara</td>
   </tr>
 </table>
 
