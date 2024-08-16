@@ -4,7 +4,7 @@ Bienvenido
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
   <tr align="center">
-   <td>Diego Ismael Chávez</td>
+   <td>Diego Ismael Chávez Acevedo</td>
 </table>
 </div>
 
